@@ -23,7 +23,7 @@ This repository contains the code of performing the task of implementing a peopl
 - On giving test images to a pretrained model, the inference results were not as per requirements. On some instances the model detected the entire image as a person and also missing out on some fairly obvious ones.
 
 <p align="center">
-  <img src="https://github.com/dr-flysky/crowd-counter/blob/master/pretrained-results/result1.png" width="640px" height="480px"/></p>
+  <img src="https://github.com/dr-flysky/crowd-counting/blob/main/pretrained-results/result1.png" width="640px" height="480px"/></p>
 
 - Clearly, using the pre-trained models is not the way to go. So, ~~Pre-Trained Models~~ :confused:
 ***
@@ -52,10 +52,10 @@ A custom model had to trained for accurate implementation. The following steps w
 Upon running `main.py`, the results are as shown below. (Refer `./results`)
 
 <p align="center">
-  <img src="https://github.com/dr-flysky/crowd-counter/blob/master/results/result0003.jpg" width="640px" height="480px"/></p>
+  <img src="https://github.com/dr-flysky/crowd-counting/blob/main/results/result0003.jpg" width="640px" height="480px"/></p>
   
 <p align="center">
-  <img src="https://github.com/dr-flysky/crowd-counting-using-tensorflow/blob/master/results/result0007.jpg" width="640px" height="480px"/></p>
+  <img src="https://github.com/dr-flysky/crowd-counting/blob/main/blob/master/results/result0007.jpg" width="640px" height="480px"/></p>
 
 ***Note:*** Since the model was trained on only **30** annotated images, the accuracy can be significantly increased by using a larger dataset to build the model.
 ***
