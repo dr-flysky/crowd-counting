@@ -55,7 +55,7 @@ Upon running `main.py`, the results are as shown below. (Refer `./results`)
   <img src="https://github.com/dr-flysky/crowd-counting/blob/main/results/result0003.jpg" width="640px" height="480px"/></p>
   
 <p align="center">
-  <img src="https://github.com/dr-flysky/crowd-counting/blob/main/blob/master/results/result0007.jpg" width="640px" height="480px"/></p>
+  <img src="https://github.com/dr-flysky/crowd-counting/blob/main/results/result0007.jpg" width="640px" height="480px"/></p>
 
 ***Note:*** Since the model was trained on only **30** annotated images, the accuracy can be significantly increased by using a larger dataset to build the model.
 ***
